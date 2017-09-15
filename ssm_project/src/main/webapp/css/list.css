@@ -1,0 +1,30 @@
+ul li
+{
+	list-style:none;
+    margin-left: 85px;
+    float: left;
+}
+.context{
+	width: 1500px;
+    height: 600px;
+	
+}
+.cardlist{
+	    padding-right: 10px;
+    padding-left: 10px;
+    
+}  
+   
+.carditem{
+ 	float: left;
+    width: 220px;
+    padding: 7px 7px 10px;
+    border: 1px solid transparent;
+    position: relative;
+ }
+ 
+ .fenye{
+   	 position: absolute;
+       margin: 30px 800px;
+ 
+ }
